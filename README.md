@@ -1,8 +1,6 @@
-# THIS IS NOT THE REAL SOURCE CODE AND IS OUTDATED!!! NO SUPPORT WILL BE PROVIDED!!!
 ## SLOW ROADS SOURCE CODE VER 1.01
-### By RobertTBS
+### By RobertTBS -> This is a copy from RobertTBS. The original project is from Anslo (anslo.dev). I use this repository to mess around and see what tweaks I can bring to the game.
 <br>
-** THIS IS NOT THE OFFICIAL SOURCE AND IS OUTDATED! **
 <hr>
 This is the source code to Slow Roads. I looked through the code and developer console and downloaded the code and all dependancies.
 <br>
