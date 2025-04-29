@@ -3318,7 +3318,7 @@
                   grassColouration: [0, 0, 0, 0],
                   treeColouration: [0.15, 0.15, 0.15, 0],
                 },
-                friction: { road: 1.2, side: 0.8, grass: 0.6 },
+                friction: { road: 3, side: 0.8, grass: 0.6 },
                 walls: { drystone: $t, fence: ti },
               },
             },
